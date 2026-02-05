@@ -54,7 +54,7 @@ It also serves as a personal portfolio to demonstrate **clean design thinking an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ankitshrr/Nothing-Portfolio.git
+   git clone https://github.com/ankitshrr/Nothing_Porfolio_Website.git
    ```
 
 2. Open `index.html` in your browser
@@ -88,4 +88,3 @@ As long as proper credit is given.
 **Ankit Shrestha**
 GitHub: [https://github.com/ankitshrr](https://github.com/ankitshrr)
 LinkedIn: [https://linkedin.com/in/ankitshrr](https://linkedin.com/in/ankitshrr)
-g
